@@ -1,3 +1,4 @@
 test protect branch
 suytj
 test commit using UI
+test commit on terminal
