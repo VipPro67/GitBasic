@@ -1,0 +1,5 @@
+git branch <branch name> // new branch
+git stash // remove change to newest commit
+git reset <mode> <commithash> //
+git cherry-pick <commit> // only get change on this commit to current
+git 
