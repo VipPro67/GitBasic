@@ -1,0 +1,5 @@
+test protect branch
+suytj
+test commit using UI
+test commit on terminal
+test commit using ui after setting
